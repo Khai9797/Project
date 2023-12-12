@@ -19,6 +19,7 @@ public class CategoryService implements ICategoryService{
     @Autowired
     private ICategoryRepository categoryRepository;
 
+//    @Autowire EmailService..
     @Autowired
     private IManufactureRepository manufactureRepository;
 
